@@ -20,3 +20,7 @@ reset.addEventListener('click', function () {
 textareaHTML.addEventListener('input', fillCode);
 textareaCSS.addEventListener('input', fillCode);
 window.addEventListener('load', fillCode);
+
+textareaHTML.addEventListener('input', fillCode);
+textareaCSS.addEventListener('input', fillCode);
+window.addEventListener('load', fillCode);
